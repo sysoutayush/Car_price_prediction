@@ -4,3 +4,6 @@ Develop an end-to-end machine learning project our own locale using Python and N
 Created an API with FastAPI.
 After creating the interface with the help of Streamlit, we will dockerize our project.
 
+# Notebook
+https://github.com/sysoutayush/Car_price_prediction/blob/master/predict-car-price.ipynb
+
