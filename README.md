@@ -7,3 +7,7 @@ After creating the interface with the help of Streamlit, we will dockerize our p
 # Notebook
 https://github.com/sysoutayush/Car_price_prediction/blob/master/predict-car-price.ipynb
 
+## FrontEnd off the application
+
+![Forntend](https://github.com/sysoutayush/Car_price_prediction/blob/master/Stremlit1.png)
+
